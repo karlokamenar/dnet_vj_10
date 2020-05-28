@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnet_vj_10", "dnet_vj_10\dnet_vj_10.csproj", "{00433F95-9ED1-4A63-AF0D-D4D7D4D0E1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnet_vj_10_servis", "dnet_vj_10_servis\dnet_vj_10_servis.csproj", "{1707FE89-1138-4CC1-9756-DEB8A0ABF357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00433F95-9ED1-4A63-AF0D-D4D7D4D0E1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00433F95-9ED1-4A63-AF0D-D4D7D4D0E1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00433F95-9ED1-4A63-AF0D-D4D7D4D0E1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00433F95-9ED1-4A63-AF0D-D4D7D4D0E1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1707FE89-1138-4CC1-9756-DEB8A0ABF357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1707FE89-1138-4CC1-9756-DEB8A0ABF357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1707FE89-1138-4CC1-9756-DEB8A0ABF357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1707FE89-1138-4CC1-9756-DEB8A0ABF357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E818A9-45F6-4DB2-A13D-05CD1D5FF7D6}
+	EndGlobalSection
+EndGlobal
